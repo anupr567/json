@@ -1,4 +1,12 @@
-{ 
-  "Name": "Anup" ,
-  "Bemsid": "5290154"
+{
+  "post": [
+    {
+      "id": 325689,
+      "title": "data scientist"
+    }
+  ],
+  "profile": {
+    "name": "Anup",
+    "place": "Uttarakhand"
+  }
 }
